@@ -1,9 +1,13 @@
-package entities;
+package applicaton;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
+
+import entities.LegalPerson;
+import entities.PhysicalPerson;
+import entities.TaxPayer;
 
 public class Program {
 
